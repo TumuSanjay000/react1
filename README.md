@@ -1,17 +1,17 @@
 Install Node.js and npm
-node -v
-npm -v
+node -v,
+npm -v,
 
 
 installing the packages using the below commands in the using folder
-npm install -g npm
-npx create-react-app product-cards
-npm install -g create-react-app
-create-react-app product-cards
+npm install -g npm,
+npx create-react-app product-cards,
+npm install -g create-react-app,
+create-react-app product-cards,
 
 
 using another command move to product-cards folder
-cd product-cards
+cd product-cards,
 
 
 in src folder create productcard.js and productcard.css and use the above codes
